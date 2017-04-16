@@ -1,3 +1,10 @@
+#Team Members
+1) Bharath Bhambore
+2) Poornima Byre Gowda
+3) Prajwal Kuchchangi 
+4) Shrunga Divakar
+
+
 # Turbo-Encoder-Decoder
 
  This project presents a study on the Design of high performance turbo encoder and iterative turbo decoder using different algorithms. 
